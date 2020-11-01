@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: gateway
-        image: subhakarkotta/spring-boot-gateway-service:1.0
+        image: jvncs99/spring-boot-gateway-service:1.0
         ports:
         - containerPort: 8080
 ---
